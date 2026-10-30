@@ -1,0 +1,80 @@
+month_year,bank_name,role_type,technical_decline_pct,td_zscore
+2024-01,Axis Bank Ltd.,Remitter,30.0,4.8729956854374725
+2025-09,Indian Bank,Beneficiary,1.12,4.540379574580366
+2024-01,UCO Bank,Beneficiary,3.24,4.333729769169247
+2026-01,Fino Payments Bank Ltd.,Beneficiary,6.95,4.251079229183551
+2025-12,Karnataka Gramin Bank,Remitter,27.0,4.232831384666003
+2024-02,Andhra Pragathi Grameena Bank,Remitter,96.0,4.201790101730764
+2025-08,Bank Of India,Beneficiary,4.07,4.1193054079642035
+2025-08,Federal Bank Ltd.,Beneficiary,0.44,4.103825131426375
+2025-09,Karnataka Gramin Bank,Beneficiary,20.89,4.058620688384106
+2024-01,Kerala Gramin Bank,Beneficiary,10.46,3.9864627087271582
+2024-03,Maharashtra Gramin Bank,Remitter,83.0,3.836452373984298
+2025-09,Maharashtra Gramin Bank,Beneficiary,16.76,3.8160030313015314
+2025-08,Federal Bank Ltd.,Remitter,59.0,3.7772985064547893
+2024-09,Kotak Mahindra Bank,Remitter,68.0,3.7629960923705172
+2024-01,Bank of Maharashtra,Remitter,97.0,3.748578167759344
+2025-12,Telangana Grameena Bank,Remitter,71.0,3.6074149952016894
+2024-07,Yes Bank Ltd.,Beneficiary,0.06,3.6036052420570552
+2026-01,ICICI Bank Ltd.,Beneficiary,0.51,3.5777182200350337
+2026-02,IDFC Bank Ltd.,Beneficiary,0.55,3.5766050233195674
+2025-08,Rajasthan Marudhara Gramin Bank,Beneficiary,13.8,3.505676564267449
+2025-11,Maharashtra Gramin Bank,Remitter,76.0,3.480935308239885
+2024-03,Karur Vysya Bank,Beneficiary,1.21,3.454624043060521
+2026-03,Unity Small Finance Bank Limited,Beneficiary,1.1,3.427632919227246
+2024-10,Axis Bank Ltd.,Beneficiary,0.07,3.415263431001187
+2024-04,Punjab and Sind Bank,Beneficiary,6.48,3.3933930817788753
+2024-02,Karnataka Bank,Remitter,82.0,3.320897766599447
+2024-07,Maharashtra Gramin Bank,Beneficiary,14.68,3.271699872045018
+2024-11,DBS Bank India Limited,Remitter,44.0,3.246487615674033
+2025-08,ICICI Bank Ltd.,Remitter,52.0,3.2322183968588507
+2024-11,Karnataka Bank,Beneficiary,1.51,3.226626230191876
+2025-08,Suryoday Small Finance Bank Limited,Beneficiary,3.64,3.1936403076832116
+2024-04,Union Bank of India,Beneficiary,1.88,3.1874374296078334
+2024-04,Citi Bank,Beneficiary,0.19,3.16143518514851
+2026-05,The South Indian Bank Limited,Beneficiary,0.48,3.154480452169587
+2025-11,Indusind Bank Ltd.,Remitter,74.0,3.1474976670035577
+2024-05,Bank of Baroda,Remitter,95.0,3.137870892366238
+2026-06,NSDL Payments Bank Limited,Remitter,87.0,3.1276070328020356
+2024-07,Andhra Pragathi Grameena Bank,Beneficiary,12.37,3.1232238536263304
+2025-08,Bandhan Bank limited,Remitter,15.0,3.118442297384947
+2024-03,Bank of Maharashtra,Beneficiary,3.84,3.1119357512028802
+2024-01,Tri O Tech Solutions Private Limited,Beneficiary,0.6,3.1118247089637765
+2025-08,Ujjivan Small Finance Bank Limited,Beneficiary,1.31,3.090470632797822
+2026-06,Punjab National Bank,Beneficiary,1.25,3.0791695772842247
+2025-11,ESAF Small Finance Bank Ltd,Remitter,64.0,3.071972441571428
+2026-05,Indian Bank,Remitter,52.0,3.03956688539609
+2024-12,Indian Overseas Bank,Remitter,65.0,3.0313967141217457
+2025-08,Union Bank of India,Remitter,75.0,3.027138782868726
+2024-07,Rajasthan Marudhara Gramin Bank,Beneficiary,12.15,3.026563253209574
+2025-08,Indian Overseas Bank,Remitter,64.0,2.9756708025290792
+2024-07,HDFC Bank Ltd.,Beneficiary,0.23,2.9523976048174436
+2025-11,Indusind Bank Ltd.,Beneficiary,0.51,2.95179990049529
+2024-04,Rajasthan Marudhara Gramin Bank,Remitter,99.0,2.9090546986864414
+2026-02,NSDL Payments Bank Limited,Beneficiary,1.6,2.9017611839710042
+2025-11,AU Small Finance Bank,Remitter,95.0,2.891797139509579
+2024-07,RBL Bank Ltd.,Beneficiary,0.59,2.8806501090481698
+2024-02,Bank of Maharashtra,Beneficiary,3.6,2.879983826284379
+2025-08,IDBI Bank Ltd.,Remitter,83.0,2.876503628099465
+2024-01,Axis Bank Ltd.,Beneficiary,0.06,2.8581941135229507
+2025-12,The Jammu & Kashmir Bank Limited,Remitter,50.0,2.851230886007242
+2024-02,Andhra Pradesh Grameena Vikas Bank,Remitter,96.0,2.8432697558328885
+2025-08,JIO Payments Bank Ltd,Beneficiary,1.83,2.8363274796477347
+2026-05,The South Indian Bank Limited,Remitter,39.0,2.747626682715898
+2024-12,Yes Bank Ltd.,Remitter,37.0,2.7354371198338905
+2026-01,Fino Payments Bank Ltd.,Remitter,77.0,2.7076689221253765
+2024-01,ESAF Small Finance Bank Ltd.,Beneficiary,4.71,2.7003179337966494
+2024-10,IDFC Bank Ltd.,Remitter,44.0,2.7002396435016265
+2024-03,UCO Bank,Remitter,91.0,2.690817724719217
+2024-11,The Jammu & Kashmir Bank Limited,Beneficiary,1.27,2.6658049777217725
+2024-07,Jammu and Kashmir Bank,Beneficiary,3.25,2.6575949837383113
+2024-01,Pragathi Krishna Gramin Bank,Beneficiary,15.4,2.6538125674914808
+2025-09,The Jammu & Kashmir Bank Limited,Remitter,47.0,2.6406590139446706
+2024-04,Kotak Mahindra Bank,Beneficiary,1.05,2.6335982607690243
+2024-12,The Jammu & Kashmir Bank Limited,Beneficiary,1.25,2.6137054032316804
+2024-03,Kerala Gramin Bank,Remitter,96.0,2.610430190667667
+2024-11,Standard Chartered Bank,Remitter,64.0,2.595423621889462
+2024-01,Ujjivan Small Finance Bank,Beneficiary,1.09,2.554818751979951
+2026-02,IDFC Bank Ltd.,Remitter,42.0,2.5499120485984488
+2025-10,Sarva Haryana Gramin Bank,Remitter,100.0,2.538093046332604
+2024-02,Kotak Mahindra Bank,Beneficiary,1.01,2.510817667059794

@@ -1,0 +1,11 @@
+bank_name,months,pearson_r,p_value,significant (p<0.05)
+State Bank of India,18,0.18,0.4666,False
+State Bank Of India,12,-0.45,0.1447,False
+Bank of Baroda,27,-0.21,0.2853,False
+HDFC Bank Ltd.,19,-0.16,0.5017,False
+Punjab National Bank,27,0.35,0.0703,False
+Union Bank of India,24,0.17,0.4261,False
+Kotak Mahindra Bank,29,-0.25,0.1946,False
+Canara Bank,30,-0.36,0.0488,True
+Axis Bank Ltd.,28,-0.47,0.0107,True
+Indian Bank,30,0.03,0.8864,False
