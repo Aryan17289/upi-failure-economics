@@ -19,8 +19,7 @@ This project pulls apart those two kinds of failure using 30 months of public NP
 | **44%** | share of all technical failures caused by those 37 banks |
 | **0.73% → 0.25%** | ecosystem technical decline rate, first 6 months vs last 6 months |
 
-![Power BI dashboard](<img width="1321" height="738" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/70272583-90e7-4dc2-a95b-993c56948fc4" />
-)
+![Power BI Dashboard](https://github.com/user-attachments/assets/70272583-90e7-4dc2-a95b-993c56948fc4)
 
 ## What I found
 
